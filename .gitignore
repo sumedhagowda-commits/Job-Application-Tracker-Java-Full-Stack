@@ -1,0 +1,8 @@
+node_modules/
+client/dist/
+server/target/
+server/data/
+*.mv.db
+*.trace.db
+.env
+.DS_Store
